@@ -1,6 +1,6 @@
 ### <h1>Olá, mundo! Eu sou o Nickollas</h1>
 
-<h3>Sou Dev Junior com 16 anos de idade<br>
+<h3>Sou Dev Junior com 17 anos de idade<br>
 Estudo, leio e pratico mais aprofundo HTML, CSS e JavaScript</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
