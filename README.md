@@ -1,7 +1,8 @@
 ### <h1>Olá, mundo! Eu sou o Nickollas</h1>
 
 <h3>Sou Dev Junior com 17 anos de idade<br>
-Estudo, leio e pratico mais aprofundo HTML, CSS e JavaScript</h3>
+Estudo, leio e pratico mais aprofundo HTML, CSS e JavaScript<br>
+Ultimamente tenho focado bastante os estudos para MySQL e APIs</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
