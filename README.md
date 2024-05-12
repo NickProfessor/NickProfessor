@@ -87,7 +87,7 @@
 
 <p align="center">
    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=NickProfessor&theme=dracula&border_radius=5&locale=pt_BR&card_width=501" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=NickProfessor&theme=neon-palenight&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200" alt="GitHub Streak" />
    </a>
 </p>
 
