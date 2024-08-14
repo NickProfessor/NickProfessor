@@ -12,14 +12,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=6000&pause=1000&color=A40303&random=false&width=435&lines=Eu+sou+o+Nickollas;Eu+sou+o+Nick;Eu+sou+Professor+Nick;Eu+sou+o+NickLord)](https://git.io/typing-svg)
 <img src="https://github.com/NickProfessor/NickProfessor/blob/main/assets/hehim.svg" align="right" style="vertical-align:top margin:6px 4px">
 
-### Me chamo Nickollas, tenho 17 anos e amo programação (ainda mais front-end).
+### Me chamo Nickollas, tenho 18 anos e amo programação (ainda mais front-end).
 <img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/I41vRDV1_O4AAAAC/one-piece-gear-5.gif">
 
 ### - Aprendendo atualmente:
 
 - 🧘‍♂️ React
 - 🧘‍♂ TypeScript
-- 🧘‍♂️ MySql
+- 🧘‍♂️ Php
 
 ### - Hobbies:
 
@@ -36,17 +36,16 @@
 <br/>
 
 <p align="center">
-
-   <img src="https://github.com/NickProfessor/NickProfessor/blob/main/assets/js.svg" style="vertical-align:top margin:6px 4px">
-   <img src="https://github.com/NickProfessor/NickProfessor/blob/main/assets/html.svg" style="vertical-align:top margin:6px 4px">
-   <img src="https://github.com/NickProfessor/NickProfessor/blob/main/assets/css3.svg" style="vertical-align:top margin:6px 4px">
-   <img src="https://github.com/NickProfessor/NickProfessor/blob/main/assets/php.svg" style="vertical-align:top margin:6px 4px">
-   </br>
-   <img src="https://github.com/NickProfessor/NickProfessor/blob/main/assets/react.svg" style="vertical-align:top margin:6px 4px">
-   <img src="https://github.com/NickProfessor/NickProfessor/blob/main/assets/bootstrap.svg" style="vertical-align:top margin:6px 4px">
-   <img src="https://github.com/NickProfessor/NickProfessor/blob/main/assets/nodejs.svg" style="vertical-align:top margin:6px 4px">
-   </br>
-   <img src="https://github.com/NickProfessor/NickProfessor/blob/main/assets/visualstudio_code.svg" style="vertical-align:top margin:6px 4px">
+    <img src="https://skillicons.dev/icons?i=html,,css,,sass,,javascript,,typescript,,php,,cs" sty>
+   <br/>
+   <br/>
+   <img src="https://skillicons.dev/icons?i=nodejs" >
+   <img src="https://skillicons.dev/icons?i=,react" sty>
+   <img src="https://skillicons.dev/icons?i=,bootstrap" sty>
+   <br/>
+   <br/>
+   <img src="https://skillicons.dev/icons?i=vscode,,notion,,git,,github" sty>
+   
 </p>
 </br>
 </br>
