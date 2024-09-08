@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="40" height="40" /> Eu sou o Nick, e serei o rei dos piratas! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="40" height="40" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Ram.png" alt="Ram" width="40" height="40" /> Eu sou o Nick, e serei um grande dev! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="40" height="40" />
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/1aOJTp7ltEMAAAAC/luffy-one-piece.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://64.media.tumblr.com/31bf8f0d86877d540c55b0b9fb68e6bc/af7d0939507d66d9-37/s640x960/4895e104219a526545818a1d42b464e6d25ed413.gif">
 </div>
 <br/>
 <br/>
@@ -9,11 +9,11 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="35" height="35" /> Sobre mim:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=6000&pause=1000&color=A40303&random=false&width=435&lines=Eu+sou+o+Nickollas;Eu+sou+o+Nick;Eu+sou+Professor+Nick;Eu+sou+o+NickLord)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Prazer%2C+me+chamo+Nickollas;Seja+bem-vindo!;N%C3%A3o+tenha+medo+dos+Kindred++XD)](https://git.io/typing-svg)
 <img src="https://github.com/NickProfessor/NickProfessor/blob/main/assets/hehim.svg" align="right" style="vertical-align:top margin:6px 4px">
 
 ### Me chamo Nickollas, tenho 18 anos e amo programação (ainda mais front-end).
-<img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/I41vRDV1_O4AAAAC/one-piece-gear-5.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://i.redd.it/ssablmbzne051.gif">
 
 ### - Aprendendo atualmente:
 
@@ -57,7 +57,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://media1.tenor.com/m/u_UIn-uPZT4AAAAC/luffy-ace-one-piece.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://64.media.tumblr.com/11510cff8c4534b3f1b27a38d7277f86/tumblr_pw7yzrcjKN1tukpmio1_400.gif">
 
 
  Vamos trabalhar juntos! Se você precisa de um membro proativo e que esteja sempre pronto para novos desafios, <i>esse cara sou eu! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png"      alt="Musical Notes" width="25" height="25" /> </i>.
@@ -85,9 +85,7 @@
 </br>
 
 <p align="center">
-   <a href="https://streak-stats.demolab.com?user=NickProfessor&theme=neon-palenight&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200">
-      <img src="https://streak-stats.demolab.com?user=NickProfessor&theme=neon-palenight&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200" alt="GitHub Streak" />
-   </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NickProfessor&theme=transparent&exclude_days=Sun&background=45%2C000000%2C121829&border=EBEBEB&dates=79EAEB&currStreakNum=6F3EFF" alt="GitHub Streak" /></a>
 </p>
 
 *************
