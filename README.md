@@ -1,19 +1,17 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Ram.png" alt="Ram" width="40" height="40" /> Eu sou o Nick, e serei um grande dev! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="40" height="40" />
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://64.media.tumblr.com/31bf8f0d86877d540c55b0b9fb68e6bc/af7d0939507d66d9-37/s640x960/4895e104219a526545818a1d42b464e6d25ed413.gif">
-</div>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Linguagens e ferramentas:
 <br/>
-<br/>
-<br/>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=typescript,,react,,php,,git" sty>
+   
+</p>
+</br>
+</br>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="35" height="35" /> Sobre mim:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Prazer%2C+me+chamo+Nickollas;Seja+bem-vindo!;N%C3%A3o+tenha+medo+dos+Kindred++XD)](https://git.io/typing-svg)
 <img src="https://github.com/NickProfessor/NickProfessor/blob/main/assets/hehim.svg" align="right" style="vertical-align:top margin:6px 4px">
 
-### Me chamo Nickollas, tenho 18 anos e amo programação (ainda mais front-end).
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.redd.it/ssablmbzne051.gif">
+### Me chamo Nickollas, tenho 19 e busco ingressar no mercado de T.I.
 
 ### - Aprendendo atualmente:
 
@@ -32,23 +30,9 @@
 <br/>
 <br/>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Linguagens e ferramentas:
-<br/>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,,css,,sass,,javascript,,typescript,,php,,cs" sty>
-   <br/>
-   <br/>
-   <img src="https://skillicons.dev/icons?i=nodejs" >
-   <img src="https://skillicons.dev/icons?i=,react" sty>
-   <img src="https://skillicons.dev/icons?i=,bootstrap" sty>
-   <br/>
-   <br/>
-   <img src="https://skillicons.dev/icons?i=vscode,,notion,,git,,github" sty>
-   
-</p>
-</br>
-</br>
+
+
 
 
 # Contate-me :
