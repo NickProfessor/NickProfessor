@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Linguagens e ferramentas:
 <br/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,,react,,php,,mysql,,git" sty>
+    <img src="https://skillicons.dev/icons?i=typescript,,angular,,php,,mysql,,git" sty>
    
 </p>
 </br>
